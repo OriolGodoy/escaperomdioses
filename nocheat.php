@@ -9,7 +9,7 @@ if ($_SESSION["current_page"] == 2) {
     exit();
   } else {
     $_SESSION["error"] = "La respuesta es incorrecta. Inténtalo de nuevo.";
-    header("Location: capa1.php");
+    header("Location: index.php");
     exit();
   }
 } elseif ($_SESSION["current_page"] == 3) {
