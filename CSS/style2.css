@@ -1,0 +1,44 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(../IMG/giphy.gif);
+    background-size: cover;
+    margin: 0%;
+}
+
+.box {
+    margin-left: 430px;
+    margin-right: 420px;
+    background-color: white;
+    padding-left: 80px;
+    padding-top: 8px;
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+
+.img {
+    width: 250px;
+    padding-left: 50px;
+}
+
+h1 {
+    padding-left: 90px;
+}
+
+p {
+    padding-left: 0px;
+}
+
+input {
+    margin-left: 80px;
+}
+
+.boton {
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    background-color: papayawhip;
+}
+
+.letras {
+    padding-left: 45px;
+}

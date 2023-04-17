@@ -1,0 +1,11 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(../IMG/Sin\ título-1.png);
+}
+
+.play {
+    width: 140px;
+    height: 140px;
+    margin-left: 650px;
+    margin-top: 240px;
+}
